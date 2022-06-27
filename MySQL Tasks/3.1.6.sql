@@ -1,0 +1,1 @@
+create index I on Person(email);
